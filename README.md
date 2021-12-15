@@ -5,5 +5,7 @@ Please subscribe to our [YouTube channel](https://www.youtube.com/channel/UC4anw
 
 ### Repository contents
 
+- `Fun`: miscellaneous "fun with computing" content.
+
 - `ProgrammingContestProblems`: this directory contains solutions to a variety
 of programming contest problems.
