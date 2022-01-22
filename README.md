@@ -9,3 +9,5 @@ Please subscribe to our [YouTube channel](https://www.youtube.com/channel/UC4anw
 
 - `ProgrammingContestProblems`: this directory contains solutions to a variety
 of programming contest problems.
+
+- `Teaching`: this directory contains content related to teaching Computer Science topics.
